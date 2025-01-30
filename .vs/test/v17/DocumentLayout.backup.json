@@ -3,11 +3,8 @@
   "WorkspaceRootPath": "D:\\guswn3717\\github\\Test\\WSME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFD1C187-8726-4D43-822B-AC8BB00E3709}|Old mth\\Old mth.vcxproj|D:\\guswn3717\\github\\Test\\WSME\\Old mth\\Old mth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AFD1C187-8726-4D43-822B-AC8BB00E3709}|Old mth\\Old mth.vcxproj|solutionrelative:Old mth\\Old mth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rudal\\source\\repos\\test\\easy mth\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{69DD836B-7FFF-4114-A827-C4CD21CF07FF}|short mthe\\short mthe.vcxproj|D:\\guswn3717\\github\\Test\\WSME\\short mthe\\Short mthe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69DD836B-7FFF-4114-A827-C4CD21CF07FF}|short mthe\\short mthe.vcxproj|solutionrelative:short mthe\\Short mthe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Old mth.cpp",
-              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\WSME\\Old mth\\Old mth.cpp",
-              "RelativeDocumentMoniker": "Old mth\\Old mth.cpp",
-              "ToolTip": "D:\\guswn3717\\github\\Test\\WSME\\Old mth\\Old mth.cpp",
-              "RelativeToolTip": "Old mth\\Old mth.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Title": "Short mthe.cpp",
+              "DocumentMoniker": "D:\\guswn3717\\github\\Test\\WSME\\short mthe\\Short mthe.cpp",
+              "RelativeDocumentMoniker": "short mthe\\Short mthe.cpp",
+              "ToolTip": "D:\\guswn3717\\github\\Test\\WSME\\short mthe\\Short mthe.cpp",
+              "RelativeToolTip": "short mthe\\Short mthe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-20T06:55:46.749Z",
+              "WhenOpened": "2025-01-30T06:50:00.429Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\rudal\\source\\repos\\test\\easy mth\\FileName.cpp",
-              "ToolTip": "C:\\Users\\rudal\\source\\repos\\test\\easy mth\\FileName.cpp",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-15T16:31:46.499Z"
             }
           ]
         }
